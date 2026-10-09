@@ -1,4 +1,4 @@
-# facadePattern
+# LabAss4FacadePattern
 
 ## Problem 
 Simplified Hotel Management System
